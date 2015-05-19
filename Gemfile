@@ -14,6 +14,7 @@ gem 'pg'
 gem 'simple_form'
 gem 'gibbon'
 gem 'sucker_punch'
+gem "figaro"
 
 group :development, :test do
   gem 'byebug'
